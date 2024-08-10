@@ -1,5 +1,5 @@
 .chatbody {
-    display: flex;
-    flex-direction: column;
-    height: 100%; /* Full viewport height */
+    
+    /* flex-direction: column; */
+    height: 80%; /* Full viewport height */
   }
